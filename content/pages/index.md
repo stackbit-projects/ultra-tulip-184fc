@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: /images/Screen Shot 2021-08-15 at 11.51.18 AM.png
+    image: /images/Screen Shot 2021-08-15 at 11.52.17 AM.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
