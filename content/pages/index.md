@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: /images/hope.jpeg
+    image: /images/hero.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
