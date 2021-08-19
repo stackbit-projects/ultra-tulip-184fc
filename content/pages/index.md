@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Welcome to DIYJam Podcast
     subtitle: Optional hero section subtitle
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: >
+      A podcast pf extraordinary stories of ordinary people. Hosted by Shisham
+      Adhikari and Isabel Dias Hoff.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
