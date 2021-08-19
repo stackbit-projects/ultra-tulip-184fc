@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Time to Talk
-    subtitle: Small efforts
+    subtitle: Bringing together stories
     content: >
       A podcast of extraordinary stories of ordinary people. Hosted by Shisham
       Adhikari and Isabel Dias Hoff.
