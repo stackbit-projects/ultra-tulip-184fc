@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to DIYJam Podcast
+    title: Time to Talk
     subtitle: Optional hero section subtitle
     content: >
       A podcast of extraordinary stories of ordinary people. Hosted by Shisham
